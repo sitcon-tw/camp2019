@@ -12,7 +12,7 @@
         <p>希望用輕鬆互動的方式向大家簡介開放原始碼運動(open source movement)，背後的精神、社群，大家為什麼要開源，國際和台灣的開源社 群發展，以及想要參與開源社群可以如何開始。</p>
       </template>
       <template v-slot:image>
-        <img src alt />
+        <img src="../../assets/teachers/小班 - Yun-Chen Chien.jpg" alt />
       </template>
     </DetailFormat>
   </div>

@@ -12,7 +12,7 @@
         <p>這邊就讓完全沒使用過 Unity 的我來稍微整理一下，除了大家目前較熟悉的常見開發工具之外，在遊戲開發起步時， 還有哪些資源可以利用，以及台灣在地能多參加的活動。</p>
       </template>
       <template v-slot:image>
-        <img src alt />
+        <img src="../../assets/teachers/512 johnson_me2_portrait - Jung-Sheng Lin.png" alt />
       </template>
     </DetailFormat>
   </div>
