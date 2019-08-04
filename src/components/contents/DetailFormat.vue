@@ -27,6 +27,7 @@ export default {
 };
 </script>
 <style lang="scss" >
+@import "../../style/main.scss";
 .detail {
   a {
     color: lightgreen;
@@ -38,6 +39,9 @@ export default {
     float: left;
     margin-right: 16px;
     margin-bottom: 16px;
+    @include rwd-below(480px){
+      width: 60px;
+    }
   }
 }
 h4 {
