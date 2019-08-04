@@ -61,7 +61,8 @@
       "day": "1",
       "start": "16:30",
       "end": "17:30"
-    }
+    },
+    "detail":"day1telegram"
   },
   {
     "title": "",
@@ -135,7 +136,8 @@
       "day": "2",
       "start": "13:30",
       "end": "14:30"
-    }
+    },
+    "detail":"day2security"
   },
   {
     "title": "",
@@ -218,7 +220,8 @@
       "day": "3",
       "start": "13:30",
       "end": "14:30"
-    }
+    },
+    "detail":"day3infoview"
   },
   {
     "title": "",
@@ -282,7 +285,8 @@
       "day": "4",
       "start": "10:00",
       "end": "11:00"
-    }
+    },
+    "detail":"day4opensource"
   },
   {
     "title": "",
@@ -291,7 +295,8 @@
       "day": "4",
       "start": "11:00",
       "end": "15:00"
-    }
+    },
+    "detail":"day4community"
   },
   {
     "title": "",
@@ -300,7 +305,8 @@
       "day": "4",
       "start": "15:00",
       "end": "17:30"
-    }
+    },
+    "detail":"day4coffee"
   },
   {
     "title": "",
