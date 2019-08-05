@@ -98,7 +98,13 @@ export default {
     return {
       start: '07:30',
       end: '22:00',
-      heads: ['Day 1', 'Day 2', 'Day 3', 'Day 4', 'Day 5'],
+      heads: [
+        'Day 1 (8/7)',
+        'Day 2 (8/8)',
+        'Day 3 (8/9)',
+        'Day 4 (8/10)',
+        'Day 5 (8/11)'
+      ],
       days: ['1', '2', '3', '4', '5'],
       events: events,
       events_byday: groupBy(events, 'time.day')
