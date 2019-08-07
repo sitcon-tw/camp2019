@@ -13,7 +13,7 @@
     </div>
 
     <div style="clear:left;">
-      <hr />
+      <hr>
 
       <slot name="content" />
     </div>
@@ -21,10 +21,10 @@
 </template>
 <script>
 export default {
-  data() {
-    return {};
+  data () {
+    return {}
   }
-};
+}
 </script>
 <style lang="scss" >
 @import "../../style/main.scss";

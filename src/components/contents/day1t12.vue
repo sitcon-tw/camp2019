@@ -15,6 +15,10 @@
       </template>
       <template v-slot:content>
         <p>
+          投影片連結
+          <a href="https://slides.com/adkevin3307/python-3/#/">https://slides.com/adkevin3307/python-3/#/</a>
+        </p>
+        <p>
           <strike>常言道：珍惜生命，請用 Python。</strike>
         </p>
         <p>相信很多人都聽過 Python 這門程式語言，那 Python 究竟是甚麼，它為甚麼讓很多人愛不釋手，透過這堂課來開始認識 Python 吧~</p>

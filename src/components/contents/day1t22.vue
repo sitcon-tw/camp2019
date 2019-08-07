@@ -14,6 +14,10 @@
         <p>既然你誠心誠意地請教了，那我就先不要告訴你：）</p>
       </template>
       <template v-slot:content>
+        <p>
+          投影片連結
+          <a href="https://drive.google.com/file/d/1NRpXeZfOZ212vlPyHzxBhJR8BEAXgp6r/view?usp=sharing">https://drive.google.com/file/d/1NRpXeZfOZ212vlPyHzxBhJR8BEAXgp6r/view?usp=sharing</a>
+        </p>
         <p>如果只有變數好像成不了大事，要記住很多內容的時候該怎麼辦？這堂課將會教你如何利用 Python 中的 container 讓你把想要的資料都全給存起來！</p>
         <ul>
           <li>Container in Python3</li>

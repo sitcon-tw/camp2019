@@ -58,6 +58,14 @@
           </router-link>
           <div class="underline" />
         </div>
+        <div class="block block-code-of-conduct">
+          <router-link to="/#staff">
+            <span>
+              工作人員
+            </span>
+          </router-link>
+          <div class="underline" />
+        </div>
       </div>
     </div>
   </div>
