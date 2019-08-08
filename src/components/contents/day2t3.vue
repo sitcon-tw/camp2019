@@ -19,7 +19,9 @@
       <template v-slot:content>
         <p>
           投影片連結
-          <a href="https://denny.one/the-net/">https://denny.one/the-net/</a>
+          <a href="https://denny.one/the-net/">https://denny.one/the-net/</a><br />
+          共筆連結
+          <a href="https://hackmd.io/@SITCON/camp2019-the-net">https://hackmd.io/@SITCON/camp2019-the-net</a>
         </p>
         <p>
           每天你在手機滑著 Instagram，又或是在電腦上打開瀏覽器逛著各種網頁，你是否有想過這些內容是如何呈現在你的眼前？
