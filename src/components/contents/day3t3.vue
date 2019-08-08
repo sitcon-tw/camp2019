@@ -16,7 +16,7 @@
       <template v-slot:content>
         <p>
           投影片連結
-          <a href="https://slides.com/soyccan/pip/">https://slides.com/soyccan/pip/</a>
+          <a href="https://slides.com/soyccan/pip/">https://slides.com/soyccan/pip/</a><br>
           共筆連結
           <a href="https://hackmd.io/f_a6m_W0RGGgTk4Ez_Xv9w">https://hackmd.io/f_a6m_W0RGGgTk4Ez_Xv9w</a>
         </p>
