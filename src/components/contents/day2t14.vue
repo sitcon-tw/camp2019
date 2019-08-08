@@ -20,6 +20,10 @@
       </template>
       <template v-slot:content>
         <p>
+          投影片連結
+          <a href="https://drive.google.com/open?id=1hiDrAX_Zv_BxB5NiyTZfcbStPtSgYt_T">https://drive.google.com/open?id=1hiDrAX_Zv_BxB5NiyTZfcbStPtSgYt_T</a>
+        </p>
+        <p>
           常常寫了幾百行 code 卻發現裡面有一半都是重複的嗎？
           昨天寫的 code 今天就忘了他們在幹嘛了嗎？
           想叫同學幫你寫作業卻發現溝通起來有障礙嗎？
