@@ -18,6 +18,8 @@
       </template>
       <template v-slot:content>
         <p>
+          課程錄影
+          <a href="https://youtu.be/3r-Z2zcAhoI">https://youtu.be/3r-Z2zcAhoI</a><br />
           投影片連結
           <a href="https://denny.one/the-net/">https://denny.one/the-net/</a><br />
           共筆連結
